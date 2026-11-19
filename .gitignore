@@ -1,0 +1,20 @@
+.env
+__pycache__/
+*.pyc
+config.env
+.streamlit/secrets.toml
+kairo.db
+node_modules/
+database/
+# Personal editor settings
+.vscode/
+
+# Old working backups
+*_backup*.py
+
+# Model testing results
+model test/results/
+
+# Python temporary files
+__pycache__/
+*.pyc
