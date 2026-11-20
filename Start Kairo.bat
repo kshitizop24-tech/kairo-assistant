@@ -1,5 +1,4 @@
 @echo off
-@echo off
 title Kairo Assistant
 
 cd /d "%~dp0"
